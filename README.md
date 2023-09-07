@@ -1,27 +1,11 @@
-### Hi there 👋
-
-<!--
-**sthogue/sthogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 👋 Welcome to my GitHub Profile! 🚀
 
 🌟 About Me:
 ------------------
- 🌐 full-stack Developer in the Making | 📚 Lifelong Learner
+ 🌐 Full-stack Developer in the Making | 📚 Lifelong Learner
 
-👨‍💻  I'm currently on a journey to switching careers! With a background in Student Development in Higher Education, I've decided to pivot my career towards the dynamic world of technology and full-stack development.
+👨‍💻  I'm currently on a journey to switching careers! With a Student Development in Higher Education background, I've decided to pivot my career toward the dynamic world of technology and full-stack development.
 
 📚 My Projects:
 ------------------
@@ -61,3 +45,7 @@ Here are some ideas to get you started:
 ------------------
 
 🌐 You can also find me on [LinkedIn](https://www.linkedin.com/in/stephenmhogue/)
+
+⚡ Fun fact:
+------------------
+- I have an almost perfect photographic memory, ranking in the 96th percentile! It's handy when traveling, but don't ask where I put my house keys.😂
