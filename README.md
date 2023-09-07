@@ -12,10 +12,8 @@
 🛠️ I'm currently working on a range of projects that demonstrate my growing proficiency in web development, including web applications, responsive websites, and more. Take a look at my repositories to see what I'm building!
 
 <a href="https://github.com/sthogue">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sthogue&rank_icon=github" />
-</a>
-<a href="https://github.com/sthogue">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthogue&layout=compact&langs_count=8" />
+  <img height=200 width="425" align="center" src="https://github-readme-stats.vercel.app/api?username=sthogue&rank_icon=github" />
+  <img height=200 width="400 "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthogue&layout=compact&langs_count=8" />
 </a>
 
 🌐 Languages, Tools & Platforms:
