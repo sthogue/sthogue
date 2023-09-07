@@ -15,7 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sthogue&rank_icon=github" />
 </a>
 <a href="https://github.com/sthogue/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthogue&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthogue&layout=compact&langs_count=8" />
 </a>
 
 🌐 Languages, Tools & Platforms:
