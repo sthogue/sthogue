@@ -1,5 +1,5 @@
 
-👋 Welcome to my GitHub Profile! 🚀
+# 👋 Welcome to my GitHub Profile! 🚀
 
 🌟 About Me:
 ------------------
@@ -11,10 +11,10 @@
 ------------------
 🛠️ I'm currently working on a range of projects that demonstrate my growing proficiency in web development, including web applications, responsive websites, and more. Take a look at my repositories to see what I'm building!
 
-<a href="https://github.com/sthogue/github-readme-stats">
+<a href="https://github.com/sthogue">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sthogue&rank_icon=github" />
 </a>
-<a href="https://github.com/sthogue/convoychat">
+<a href="https://github.com/sthogue">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthogue&layout=compact&langs_count=8" />
 </a>
 
