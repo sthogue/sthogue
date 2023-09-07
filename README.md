@@ -30,7 +30,9 @@
 	<img title="GitLab" alt="GitLab" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/gitlab.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Handlebars" alt="Handlebars" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/handlebars-original.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Heroku" alt="Heroku" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/heroku.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/html.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
+	<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/html.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+</p>
+<p align="center">
 	<img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/javascript.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Jest" alt="Jest" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/jest-plain.svg" width="70" height="40" />
 	<img title="Jquery" alt="Jquery" src="https://raw.githubusercontent.com/sthogue/sthogue/main/img/jquery-original.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
